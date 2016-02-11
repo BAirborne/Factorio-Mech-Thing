@@ -1,1 +1,1 @@
-This is a mod for factorio that add a mech vehicle.
+This is a mod for factorio that adds a mech vehicle.

@@ -1,7 +1,7 @@
 data:extend({
  {
     type = "recipe",
-    name = "mech",
+    name = "mech_recipe",
     enabled = "true",
     ingredients =
     {
@@ -10,6 +10,6 @@ data:extend({
       {"iron-gear-wheel",50},
       {"iron-plate",50}
     },
-    result = "mech"
+    result = "mech_item"
   }
 })

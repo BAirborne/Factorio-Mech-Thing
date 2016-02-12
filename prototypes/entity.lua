@@ -2,7 +2,7 @@ data:extend({
   {
       type = "car",
       name = "mech",
-      icon = "__BomberTutorial__/graphics/icon_mech.png",
+      icon = "__factorioMech__/graphics/mech_torso.png",
       flags = {"pushable", "placeable-neutral", "player-creation"},
       minable = {mining_time = 1, result = "mech"},
       max_health = 2000,

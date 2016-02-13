@@ -36,27 +36,7 @@ data:extend({
             stripes =
             {
               {
-               filename = "__mech__/graphics/mech_torso7.png",
-               width_in_frames = 1,
-               height_in_frames = 4,
-              },
-              {
-               filename = "__mech__/graphics/mech_torso6.png",
-               width_in_frames = 1,
-               height_in_frames = 10,
-              },
-              {
-               filename = "__mech__/graphics/mech_torso5.png",
-               width_in_frames = 1,
-               height_in_frames = 10,
-              },
-              {
-               filename = "__mech__/graphics/mech_torso4.png",
-               width_in_frames = 1,
-               height_in_frames = 10,
-              },
-              {
-               filename = "__mech__/graphics/mech_torso3.png",
+               filename = "__mech__/graphics/mech_torso1.png",
                width_in_frames = 1,
                height_in_frames = 10,
               },
@@ -66,9 +46,29 @@ data:extend({
                height_in_frames = 10,
               },
               {
-               filename = "__mech__/graphics/mech_torso1.png",
+               filename = "__mech__/graphics/mech_torso3.png",
                width_in_frames = 1,
                height_in_frames = 10,
+              },
+              {
+               filename = "__mech__/graphics/mech_torso4.png",
+               width_in_frames = 1,
+               height_in_frames = 10,
+              },
+              {
+               filename = "__mech__/graphics/mech_torso5.png",
+               width_in_frames = 1,
+               height_in_frames = 10,
+              },
+              {
+               filename = "__mech__/graphics/mech_torso6.png",
+               width_in_frames = 1,
+               height_in_frames = 10,
+              },
+              {
+               filename = "__mech__/graphics/mech_torso7.png",
+               width_in_frames = 1,
+               height_in_frames = 4,
               }
             }
           }
